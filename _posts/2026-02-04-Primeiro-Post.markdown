@@ -2,7 +2,7 @@
 layout: post
 title:  "Ola Pessoas!"
 date:   2026-02-04 13:15:49 -0300
-categories: jekyll update
+categories: blog
 ---
 Boa tarde Pessoas e ai como voces estao, eu estou muito bem, obrigado.
 Hehehehe bm eu tenho que confesar que ainda nao esta 100% do jeito que eu quero mas ja esta em andamento e logo mais eu vou aprender mais e voces com toda certeza vao ver as melhoras que eu vou promover por aqui.
